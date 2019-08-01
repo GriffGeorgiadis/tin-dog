@@ -1,4 +1,4 @@
-A website made for the tinder app for dogs (coded along with Udemy web dev bootcamp) <br>
+<h1>A website made for the tinder app for dogs (coded along with Udemy web dev bootcamp)</h1> <br>
 what I learned: <br>
 -advanced bootstrap topics <br>
 -media query breakpoints <br>
