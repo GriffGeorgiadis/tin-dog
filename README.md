@@ -4,3 +4,4 @@
 -media query breakpoints <br>
 -how to better refactor my code <br>
 -selector priority <br>
+-Stack: HTML, CSS, Bootstrap, JQuery
